@@ -1,1 +1,1 @@
-print("podyplomowe")
+print("podyplomowe_aktualizacja")
